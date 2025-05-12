@@ -76,5 +76,5 @@ module_init(bmp180_init);
 module_exit(bmp180_exit);
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Your Name");
+MODULE_AUTHOR("PMD22146098");
 MODULE_DESCRIPTION("BMP180 I2C Driver");
