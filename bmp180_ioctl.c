@@ -122,5 +122,5 @@ module_init(bmp180_ioctl_init);
 module_exit(bmp180_ioctl_exit);
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Your Name");
+MODULE_AUTHOR("PMD22146098");
 MODULE_DESCRIPTION("BMP180 IOCTL Driver");
